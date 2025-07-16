@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ashdevfr-discourse-mcp-server-badge.png)](https://mseep.ai/app/ashdevfr-discourse-mcp-server)
+
 # Discourse MCP Server
 
 Node.js server implementing Model Context Protocol (MCP) for Discourse search operation.
